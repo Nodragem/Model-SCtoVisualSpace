@@ -2,7 +2,7 @@
 ## What's the library for:
 
 This library allows to project stimulus, data points or pictures from visual space to the Superior Colliculus space -- and the other way round.
-The Superior Colliculus is a structure involved in visual perception and in occolumotor movement.
+The Superior Colliculus is a structure involved in visual perception and in occolumotor movements.
 
 The equations used to project from one space to another are from the article of Ottes et al. (1986) you can find [HERE](http://www.mbfys.ru.nl/staff/j.vangisbergen/endnote/endnotepdfs/artikelen_groep/Ottes%201986.pdf).
 
@@ -29,7 +29,7 @@ You get three different ways to run the examples:
 
 The distribution mentionned above (Anaconda, WinPython, python(x,y)) will provide you with an editor/IDE.
 
-But the Windows' notepad allows you to open and edit .py files.
+The Windows' notepad will also allow you to open and edit .py files.
 A software like Notepad++ will be better a better job than the notepad for writing/editing little programs in python.
 
 For bigger programs, several IDEs for python exist as Spyder, IEP, Pycharm or PyScripter.
