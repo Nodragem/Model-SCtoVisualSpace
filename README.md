@@ -11,7 +11,7 @@ The equations used to project from one space to another are from the article of 
 - The folder img contains the output of the examples,
 
 
-## To run the programs:
+## To run the example programs:
 
 *I recommend to install a distribution of python which already contains everything relevant for science as Anaconda, WinPython or python(x,y).*
 
@@ -25,9 +25,9 @@ You get three different ways to run the examples:
 - by double-cliking on the file (note that the program will just stop and disappear if an error occur),
 - SHIFT + right-clik in the folder, select "open command window here", write "PlotSCGrid.py" to run the corresponding file (this way the program does not disappear if an error occurs).
 
-## If yo don't know how to edit the code:
+## If you don't know how to view and edit the example programs:
 
-The distribution mentionned above (Anaconda, WinPython, python(x,y)) will provide you with an editor/IDE.
+The distribution mentionned above (Anaconda, WinPython, python(x,y)) will provide you with an editor/IDE which can view, edit and run python files.
 
 The Windows' notepad will also allow you to open and edit .py files.
 A software like Notepad++ will be better a better job than the notepad for writing/editing little programs in python.
