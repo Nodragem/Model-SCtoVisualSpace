@@ -8,7 +8,32 @@ The equations used to project from one space to another are from the article of 
 
 - The library tools are contains in util/SCTransformation.py,
 - The files in the main folder are examples to use the library,
-- The folder img contains the output of the examples,
+- The folder img contains the output of the examples.
+
+## Examples:
+- Project the landing positions of human participant from visual space to SC space:
+
+<img src="./img/BD-SC-F80-Tdifferent.png" width="300">
+
+- Project Stimuli used in Boch et al. 1984 from visual space to SC space:
+
+<img src="./img/Boch-control.png" width="300">
+
+- Create grids of the SC space for publication: 
+
+<img src="./img/SC-grid.png" width="300">
+
+- Project a 2D activity matrix/map from SC to visual space:
+
+<img src="./img/fromSC-FromMatrix.png" width="300">
+
+- Project a 2D activity matrix/map from visual to SC space:
+
+<img src="./img/toSC-FromMatrix.png" width="300">
+
+- Project actual picture from visual space to SC space:
+
+<img src="./img/toSC-FromPicture.png" width="300">
 
 
 ## To run the example programs:
